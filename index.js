@@ -9,6 +9,6 @@ function scuberGreetingForFeet (feet) {
   }
 }
 
-ternaryCheckCity();
+function ternaryCheckCity();
 
-switchOnCharmFromTip();
+function switchOnCharmFromTip();
