@@ -18,7 +18,7 @@ function switchOnCharmFromTip(trip) {
     case 'generous':
     return 'Thank you so much.';
     break
-    case 'no as generous':
+    case 'not as generous':
     return 'Thank you.';
     break
     case 'thanks for everything':
